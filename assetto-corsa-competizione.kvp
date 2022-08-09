@@ -15,7 +15,7 @@ App.HasWritableConsole=false
 App.RapidStartup=false
 App.RootDir=./assetto-corsa-competizione/
 App.UpdateSource=Multi
-App.UpdateSources=[{"UpdateStageName": "Server Download","UpdateSourcePlatform": "All", "UpdateSource": "FetchURL", "UpdateSourceData": "http://manager.rapiddrivers.club:3000/install.zip", "UnzipUpdateSource": true}]
+App.UpdateSources=[{"UpdateStageName": "Server Download","UpdateSourcePlatform": "All", "UpdateSource": "FetchURL", "UpdateSourceData": "https://drive.google.com/file/d/1OqTV2mE5FC0wloF-psUMj8t_xqAgxgpX/view?usp=sharing", "UnzipUpdateSource": true}]
 App.WorkingDir=
 Console.AppReadyRegex=^(.+?): RegisterToLobby succeeded$
 Console.ThrowawayMessageRegex=^(.+?): ==ERR: onCarUpdate (.+?)$
