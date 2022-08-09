@@ -1,21 +1,21 @@
 [
     {
-        "ConfigFile":"/cfg/configuration.json",
+        "ConfigFile":"cfg/configuration.json",
         "AutoMap":true,
         "ConfigType":"json"
     },
     {
-        "ConfigFile":"/cfg/settings.json",
+        "ConfigFile":"cfg/settings.json",
         "AutoMap":true,
         "ConfigType":"json"
     },
     {
-        "ConfigFile":"/cfg/event.json",
+        "ConfigFile":"cfg/event.json",
         "AutoMap":true,
         "ConfigType":"json"
     },
     {
-        "ConfigFile":"/cfg/assistRules.json",
+        "ConfigFile":"cfg/assistRules.json",
         "AutoMap":true,
         "ConfigType":"json"
     }
