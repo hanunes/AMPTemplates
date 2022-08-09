@@ -4,7 +4,7 @@
         "Category":"settings.json",
         "Description":"The name of the server as it appears publicly",
         "Keywords":"name",
-        "FieldName":"serverName",
+        "FieldName":"$serverName",
         "InputType":"text",
         "IsFlagArgument":false,
         "ParamFieldName":"serverName",
