@@ -15,7 +15,7 @@ App.HasWritableConsole=false
 App.RapidStartup=false
 App.RootDir=./assetto-corsa-competizione/
 App.UpdateSource=Multi
-App.UpdateSources=[{"UpdateStageName": "Server Download","UpdateSourcePlatform": "All", "UpdateSource": "FetchURL", "UpdateSourceData": "https://drive.google.com/file/d/1OqTV2mE5FC0wloF-psUMj8t_xqAgxgpX/view?usp=sharing", "UnzipUpdateSource": true}]
+App.UpdateSources=[{"UpdateStageName": "Server Download","UpdateSourcePlatform": "All", "UpdateSource": "FetchURL", "UpdateSourceData": "https://doc-04-9c-docs.googleusercontent.com/docs/securesc/r5q0bighjovoebni6csff2099jooi6jc/snueo2fvhrphtdoensestvo7ri572eku/1660068975000/16383780872076025605/16383780872076025605/1OqTV2mE5FC0wloF-psUMj8t_xqAgxgpX?e=download&ax=AI9vYm6ndxb36a31ZuiaZkaZAQmQM5EO1hYM9192jkZ8QJQIq-JaAwcuBO5GSHUhBsIelTDeq5hIXgwXJd7XGWWJpeO670pU4gy_h00p2vBGlHNk6moI0HXOzRdxUUf9sjjlj1-CN9CfpFbLGZKdx-XJ3E3JjxvvNHPD3tiFP2NeHiNJrVULnyetgUCVgN83sb6me6SnOe5I2QxNhEP6A3YIYpmEhg2oLm2bkM5dyOVnRJpsMq8IlTwrBLm__abSfD81ejh3fNr6JW898r3bkII1HpEfmP55YUg81-l8kDPY49Nj5Wmf7taKER4ctUZmTZw6x6ows0CDmFxQmI7_yhXW5xDK-NouFPU28A8d-UrCMdm66BjO-O_PFLd07szkqzj0NPyKU2h2FT6xdf29t-BafX5at2Y3DwsmR_JORBt3MbPfqCVeGK6Px8EO94Q7_uyjLfOAPnKuWBMCJ6vhhOu81Nqxepiz2ckYiA6h8SyiW7YMgJViWtKFmdvMv8-bqqEr5lQ0esUE74mnDkO5rF7_G3trcEAmzEUCzo80yd365kR79CTx0R3tA_eVVBddrqVLJqKW-5zFiXt34R2h97oIsJOIOlKFgVhsbCbWBObfHDE391W8IGRb30Np3agft8sHFANUFTaOtF2Zkf4x4H9IUSZH4Rtug5vpV-lKXBazM70X_buyGUy6z87hvTe2qR3vUqfDCrTsP8IJJKXd&uuid=de812425-7ee0-48c1-b7f3-3dd61fa4815a&authuser=0&nonce=qstj48gv7lrfe&user=16383780872076025605&hash=dunm8fupo5bkjrrm4ruit90m747h3k5m", "UnzipUpdateSource": true}]
 App.WorkingDir=
 Console.AppReadyRegex=^(.+?): RegisterToLobby succeeded$
 Console.ThrowawayMessageRegex=^(.+?): ==ERR: onCarUpdate (.+?)$
