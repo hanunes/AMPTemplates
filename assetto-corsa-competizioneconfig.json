@@ -1,29 +1,5 @@
 [
     {
-        "DisplayName":"UDP Port",
-        "Category":"configuration.json",
-        "Description":"",
-        "Keywords":"",
-        "FieldName":"$UDPPort",
-        "InputType":"number",
-        "IsFlagArgument":false,
-        "ParamFieldName":"udpPort",
-        "IncludeInCommandLine":false,
-        "EnumValues":{}
-    },
-    {
-        "DisplayName":"TCP Port",
-        "Category":"configuration.json",
-        "Description":"",
-        "Keywords":"",
-        "FieldName":"$TCPPort",
-        "InputType":"number",
-        "IsFlagArgument":false,
-        "ParamFieldName":"tcpPort",
-        "IncludeInCommandLine":false,
-        "EnumValues":{}
-    },
-    {
         "DisplayName":"Server Name",
         "Category":"settings.json",
         "Description":"The name of the server as it appears publicly",
