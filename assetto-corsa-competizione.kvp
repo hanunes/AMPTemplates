@@ -24,6 +24,7 @@ Console.UserJoinRegex=^(.+?): New connection request: id (?<userid>\d+) (?<usern
 Console.UserLeaveRegex=^(.+?): Client (?<userid>\d+) closed the connection (.+?)$
 Meta.Author=Alex Nunes
 Meta.ConfigManifest=assetto-corsa-competizioneconfig.json
+Meta.MetaConfigManifest=assetto-corsa-competizionemetaconfig.json
 Meta.ConfigRoot=assetto-corsa-competizione.kvp
 Meta.Description=
 Meta.DisplayImageSource=url:
