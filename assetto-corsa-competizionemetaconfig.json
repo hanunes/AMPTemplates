@@ -1,22 +1,26 @@
 [
     {
-        "ConfigFile":"cfg/configuration.json",
+        "ConfigFile":"server/cfg/configuration.json",
         "AutoMap":true,
-        "ConfigType":"json"
+        "ConfigType":"json",
+        "ConfigEncoding":"utf16-le-nobom"
     },
     {
-        "ConfigFile":"cfg/settings.json",
+        "ConfigFile":"server/cfg/settings.json",
         "AutoMap":true,
-        "ConfigType":"json"
+        "ConfigType":"json",
+        "ConfigEncoding":"utf16-le-nobom"
     },
     {
-        "ConfigFile":"cfg/event.json",
+        "ConfigFile":"server/cfg/event.json",
         "AutoMap":true,
-        "ConfigType":"json"
+        "ConfigType":"json",
+        "ConfigEncoding":"utf16-le-nobom"
     },
     {
-        "ConfigFile":"cfg/assistRules.json",
+        "ConfigFile":"server/cfg/assistRules.json",
         "AutoMap":true,
-        "ConfigType":"json"
+        "ConfigType":"json",
+        "ConfigEncoding":"utf16-le-nobom"
     }
 ]
